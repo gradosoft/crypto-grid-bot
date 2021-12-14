@@ -1,0 +1,16 @@
+[
+{
+"symbol":"BTCUSDT",
+"minprice":10410.0,
+"maxprice":10610.0,
+"lotcount": 2,
+"lotsize": 0.04
+},
+{
+"symbol":"LTCUSDT",
+"minprice": 89.5,
+"maxprice": 99.1,
+"lotcount": 6,
+"lotsize": 0.5
+}
+]
